@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+
+# VS Code
+.vscode/
+
+# React / Node
+agri-frontend/node_modules/
+agri-frontend/build/
+agri-frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+src/main/resources/application.properties
